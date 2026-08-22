@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-fuer-pr-agenturen",
+  "description": "Claude für PR- und Kommunikationsagenturen: installierbare Plugins mit Skills, Quality-Gates, Monitoring-Agenten und Testakten für Medienarbeit, Krisenkommunikation, Content, Strategie und Agentur-Betrieb.",
+  "owner": {
+    "name": "Ulf Marhenke",
+    "email": "ulf.marhenke@trustwork.consulting"
+  },
+  "plugins": [
+    {
+      "name": "medienarbeit",
+      "source": "./medienarbeit",
+      "description": "Kernmodul Medienarbeit für PR-Agenturen: Kundenakte mit 3-Ebenen-Wissenssystem, Pressemitteilung, Pitch-Mail, Pressemappe, Verteiler-Strategie, Embargo-Handling, Zitat-Werkstatt — plus zwei verpflichtende Quality-Gates (Fakten-Gate, Freigabe-Gate) und einen Medienresonanz-Monitor. Mit fiktiver Testakte VoltaWerk zum sofortigen Ausprobieren.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ulf Marhenke",
+        "email": "ulf.marhenke@trustwork.consulting"
+      }
+    }
+  ]
+}

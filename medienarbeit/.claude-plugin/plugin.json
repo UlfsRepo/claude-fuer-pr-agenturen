@@ -1,0 +1,9 @@
+{
+  "name": "medienarbeit",
+  "description": "Kernmodul Medienarbeit für PR-Agenturen: Kundenakte mit 3-Ebenen-Wissenssystem, Pressemitteilung, Pitch-Mail, Pressemappe, Verteiler-Strategie, Embargo-Handling, Zitat-Werkstatt — plus zwei verpflichtende Quality-Gates (Fakten-Gate, Freigabe-Gate) und einen Medienresonanz-Monitor.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ulf Marhenke",
+    "email": "ulf.marhenke@trustwork.consulting"
+  }
+}
