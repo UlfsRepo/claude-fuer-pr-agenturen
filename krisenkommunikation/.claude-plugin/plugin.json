@@ -1,0 +1,9 @@
+{
+  "name": "krisenkommunikation",
+  "description": "Krisenkommunikation für PR-Agenturen: Krisen-Triage mit Stufenmodell, Holding Statement, Q&A/Sprachregelung, Krisenstab-Playbook, Dark-Site, beschleunigtes Krisen-Freigabe-Gate und Nachbereitung — plus Krisen-Radar-Agent. Mit Testszenario zum gefahrlosen Üben.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ulf Marhenke",
+    "email": "ulf.marhenke@trustwork.consulting"
+  }
+}

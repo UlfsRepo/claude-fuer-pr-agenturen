@@ -16,6 +16,16 @@
         "name": "Ulf Marhenke",
         "email": "ulf.marhenke@trustwork.consulting"
       }
+    },
+    {
+      "name": "krisenkommunikation",
+      "source": "./krisenkommunikation",
+      "description": "Krisenkommunikation für PR-Agenturen: Krisen-Triage mit 4-Stufen-Modell, Holding Statement, Q&A/Sprachregelung, Krisenstab-Playbook, Dark-Site, beschleunigtes Krisen-Freigabe-Gate, Nachbereitung mit Lessons Learned — plus Krisen-Radar-Agent und fiktives Übungsszenario Containerbrand Greifenberg.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ulf Marhenke",
+        "email": "ulf.marhenke@trustwork.consulting"
+      }
     }
   ]
 }
