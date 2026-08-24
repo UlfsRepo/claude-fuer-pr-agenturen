@@ -1,7 +1,8 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "claude-fuer-pr-agenturen",
-  "description": "Claude für PR- und Kommunikationsagenturen: installierbare Plugins mit Skills, Quality-Gates, Monitoring-Agenten und Testakten für Medienarbeit, Krisenkommunikation, Content, Strategie und Agentur-Betrieb.",
+  "metadata": {
+    "description": "Claude für PR- und Kommunikationsagenturen: installierbare Plugins mit Skills, Quality-Gates, Monitoring-Agenten und Testakten für Medienarbeit, Krisenkommunikation, Content, Strategie und Agentur-Betrieb."
+  },
   "owner": {
     "name": "Ulf Marhenke",
     "email": "ulf.marhenke@trustwork.consulting"

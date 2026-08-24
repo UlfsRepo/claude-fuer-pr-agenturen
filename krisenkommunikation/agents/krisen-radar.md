@@ -1,6 +1,6 @@
 ---
 name: krisen-radar
-description: Monitoring-Agent für aktive Krisen und Nachsorge-Phasen — beobachtet Berichterstattung und öffentliche Resonanz zu laufenden Krisenvorgängen, erkennt Lageänderungen und meldet sie mit Dringlichkeitsstufe. Läuft in aktiven Krisen mehrmals täglich, in der Nachsorge wöchentlich. Auslöser: "Lagecheck", "Krisen-Monitoring", "hat sich etwas getan", oder nach Plan.
+description: 'Monitoring-Agent für aktive Krisen und Nachsorge-Phasen — beobachtet Berichterstattung und öffentliche Resonanz zu laufenden Krisenvorgängen, erkennt Lageänderungen und meldet sie mit Dringlichkeitsstufe. Läuft in aktiven Krisen mehrmals täglich, in der Nachsorge wöchentlich. Auslöser: "Lagecheck", "Krisen-Monitoring", "hat sich etwas getan", oder nach Plan.'
 tools: Read, Write, WebSearch, WebFetch
 ---
 

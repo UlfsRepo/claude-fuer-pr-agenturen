@@ -1,6 +1,6 @@
 ---
 name: krisen-triage
-description: Bewertet ein eingehendes Issue (kritische Anfrage, Vorfall, Shitstorm-Anzeichen, Leak) nach dem 4-Stufen-Modell und legt Sofortmaßnahmen, Zuständigkeiten und Zeitfenster fest. IMMER als ERSTER Skill verwenden, wenn etwas krisenverdächtig ist: "kritische Anfrage", "Vorfall", "Shitstorm", "Journalist konfrontiert uns", "es ist etwas passiert".
+description: 'Bewertet ein eingehendes Issue (kritische Anfrage, Vorfall, Shitstorm-Anzeichen, Leak) nach dem 4-Stufen-Modell und legt Sofortmaßnahmen, Zuständigkeiten und Zeitfenster fest. IMMER als ERSTER Skill verwenden, wenn etwas krisenverdächtig ist: "kritische Anfrage", "Vorfall", "Shitstorm", "Journalist konfrontiert uns", "es ist etwas passiert".'
 ---
 
 # Krisen-Triage
