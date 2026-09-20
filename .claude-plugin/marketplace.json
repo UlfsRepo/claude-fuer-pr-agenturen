@@ -12,7 +12,7 @@
       "name": "medienarbeit",
       "source": "./medienarbeit",
       "description": "Kernmodul Medienarbeit für PR-Agenturen: Kundenakte mit 3-Ebenen-Wissenssystem, Pressemitteilung, Pitch-Mail, Pressemappe, Verteiler-Strategie, Embargo-Handling, Zitat-Werkstatt — plus zwei verpflichtende Quality-Gates (Fakten-Gate, Freigabe-Gate) und einen Medienresonanz-Monitor. Mit fiktiver Testakte VoltaWerk zum sofortigen Ausprobieren.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Ulf Marhenke",
         "email": "ulf.marhenke@trustwork.consulting"
@@ -32,7 +32,7 @@
       "name": "strategie-und-konzeption",
       "source": "./strategie-und-konzeption",
       "description": "Strategie & Konzeption für PR-Agenturen entlang eines 7-Phasen-Konzeptprozesses: Strategie-Briefing mit Auftragsklärung, Umfeld- und Wettbewerbsanalyse mit Quellenpflicht, Zielgruppen & Personas, Positionierungs-Optionen mit Härtetests, Messaging-Framework mit Übernahme in die Kundenakte, Kommunikationskonzept als Gesamt-Deliverable und Strategie-Gate — plus Themen-Radar-Agent und Testszenario Positionierungs-Auffrischung VoltaWerk.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Ulf Marhenke",
         "email": "ulf.marhenke@trustwork.consulting"

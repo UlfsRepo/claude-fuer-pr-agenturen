@@ -37,6 +37,7 @@ Fehlende Kerninformationen aktiv erfragen — nicht raten. Pflichtfelder für KN
 - **Unternehmen**: Rechtsform, Sitz, Gründungsjahr, Größe (Mitarbeitende, ggf. Umsatz falls kommunizierbar), Geschäftsmodell in einem Satz
 - **Sprecher:innen**: Wer darf zitiert werden? Name, Funktion, bevorzugte Pronomen falls bekannt, Freigabe-Eigenheiten
 - **Kernbotschaften**: 3–5 freigegebene Messages, wörtlich
+- **Positionierung** (falls erarbeitet): das entschiedene Positionierungs-Statement, wörtlich, mit Freigabedatum — entsteht typischerweise im Modul Strategie & Konzeption (`messaging-framework`) und wird von dort aktualisiert; solange keine vorliegt: `⚠️ OFFEN`
 - **Boilerplate**: der freigegebene "Über uns"-Absatz, wörtlich
 - **Tonalität**: 3–5 Adjektive plus je ein Positiv-/Negativbeispiel
 - **No-Gos**: verbotene Begriffe, Themen, Vergleiche, Wettbewerber-Nennungen

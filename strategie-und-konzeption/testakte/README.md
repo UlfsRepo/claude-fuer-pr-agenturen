@@ -8,7 +8,7 @@ Es setzt auf der Testakte VoltaWerk auf (gleicher fiktiver Kunde wie in den Modu
 
 > Sechs Wochen nach dem Containerbrand in Greifenberg (Ursache: Defekt eines einzelnen Zellmoduls, sauber kommuniziert und aufgeklärt) meldet sich CEO Dr. Leyla Arslan bei der Agentur: „Wir sind glimpflich davongekommen — aber mir ist klar geworden, dass uns alle nur als ‚die mit den Containern' kennen. Nächstes Jahr wollen wir in drei neue Bundesländer, wir brauchen 30 neue Leute, und die Kommunen sollen uns Standorte genehmigen. Ich will, dass wir für etwas stehen. Machen Sie uns ein Konzept — Budget haben wir nach der Serie B, aber kein Fass ohne Boden."
 
-Erschwernisse, an denen das Modul sich beweisen muss: Die alten Kernbotschaften der Akte klingen nach Friedenszeiten („Speicher sind Infrastruktur der Energiewende") — halten sie nach einem Brand noch? Zwei (fiktive) Wettbewerber besetzen bereits „Sicherheit" und „Made in Germany". Und die Resolution-Meldung der Krise enthält öffentliche Zusagen (Modultausch, Vier-Wochen-Berichte), denen kein neues Messaging widersprechen darf.
+Erschwernisse, an denen das Modul sich beweisen muss: Die alten Kernbotschaften der Akte klingen nach Friedenszeiten („Speicher sind Infrastruktur der Energiewende") — halten sie nach einem Brand noch? Zwei fiktive Wettbewerber besetzen bereits die naheliegenden Felder: **GridSafe Systems** („Sicherheit": TÜV-Siegel-Kommunikation, Brandschutz-Whitepaper) und **TeutonCell** („Made in Germany": Fertigungstiefe, Standortpatriotismus). Und die Resolution-Meldung der Krise enthält öffentliche Zusagen (Modultausch, Vier-Wochen-Berichte), denen kein neues Messaging widersprechen darf.
 
 ## Übungs-Prompts
 
