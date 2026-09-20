@@ -24,7 +24,7 @@ Setup + Nullmessung (`monitoring/setup.md`, `nullmessung.md`), Clippings des Zei
 
 ## Ehrlichkeits-Check vor Versand (Pflicht)
 
-Gegen die [Reporting-Prinzipien](../../referenz/reporting-prinzipien.md) prüfen: keine Reichweiten-Summen, **kein AVE — auch nicht auf Kundenwunsch** (stattdessen im Report erklären, warum nicht, und was die Alternative zeigt), Stichproben transparent, Tenor belegt, Negatives enthalten, Kausalität sauber formuliert, Kennzahlen-Definitionen unverändert. Danach das normale Freigabe-Gate der Agentur (Medienarbeit-Modul) — auch interne Reports verlassen das Haus nie ungeprüft.
+Gegen die [Reporting-Prinzipien](../../referenz/reporting-prinzipien.md) prüfen: keine Reichweiten-Summen, **kein AVE — auch nicht auf Kundenwunsch** (stattdessen im Report erklären, warum nicht, und was die Alternative zeigt), Stichproben transparent, Tenor belegt, Negatives enthalten, Kausalität sauber formuliert, Kennzahlen-Definitionen unverändert. Danach das normale Freigabe-Gate der Agentur (Medienarbeit-Modul; ist es nicht installiert: dokumentierte Vier-Augen-Freigabe mit Name und Datum) — auch interne Reports verlassen das Haus nie ungeprüft.
 
 ## Ablage & Rhythmus
 

@@ -42,7 +42,7 @@
       "name": "monitoring-und-reporting",
       "source": "./monitoring-und-reporting",
       "description": "Monitoring & Reporting für PR-Agenturen: Monitoring-Setup mit Suchprofilen, bindendem Bewertungsschema und Nullmessung, einheitliche Clipping-Erfassung, Medienresonanz-Analyse mit Empfehlungen, Share of Voice mit ehrlicher Methodik und periodischer KPI-Report gegen Konzept-Ziele — nach harten Reporting-Prinzipien (Wirkungstreppe, Nullpunkt-Pflicht, kein AVE, Negatives steht im Report). Mit Testszenario Quartalsreport VoltaWerk inklusive fiktiver Clipping-Liste.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Ulf Marhenke",
         "email": "ulf.marhenke@trustwork.consulting"

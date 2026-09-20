@@ -12,13 +12,14 @@ Ein Clipping ist erst dann Daten, wenn es einheitlich bewertet ist. Diese Erfass
 `kunden/<slug>/monitoring/clippings.md` — eine Tabelle, neueste oben:
 
 ```markdown
-| Datum | Medium | Titel + Link | Klasse | Tenor | Botschaften-Treffer | Anlass | Notiz |
-|---|---|---|---|---|---|---|---|
+| Datum | Medium | Titel + Link | Klasse | Tenor | Botschaften-Treffer | Frame-Treffer | Anlass | Notiz |
+|---|---|---|---|---|---|---|---|---|
 ```
 
 - **Klasse**: Reichweiten-Klasse laut Setup-Schema (überregional / regional / fach / nische) — keine Auflagen-/Reichweitenzahlen addieren
 - **Tenor**: positiv / neutral / kritisch laut Ankerbeispielen; **jede Nicht-neutral-Einstufung mit Belegzitat** in der Notiz; Grenzfälle konservativ (Richtung kritisch)
 - **Botschaften-Treffer**: welche Kernbotschaft wörtlich oder sinngemäß zitiert wurde (Nummer aus der Kundenakte) — „gar keine" ist ein valider und wichtiger Wert
+- **Frame-Treffer**: ✓/✗ nach der Frame-Zählregel des Setups (nur wenn ein Ziel-Frame definiert ist; sonst Spalte weglassen)
 - **Anlass**: eigene PM / Pitch / reaktive Anfrage / ungestützt (Redaktion von selbst) / Krisenvorgang — die Spalte, die später zeigt, welche Arbeit wirkt
 
 ## Quellen der Erfassung

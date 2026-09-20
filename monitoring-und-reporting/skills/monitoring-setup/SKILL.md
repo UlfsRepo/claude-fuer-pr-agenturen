@@ -23,7 +23,7 @@ Aus dem Kommunikationskonzept (Strategie-Modul) oder direkt vom Kunden: Welche Z
 
 ## Schritt 3: Bewertungsschema festlegen (einmal, dann bindend)
 
-Damit jede spätere Erfassung gleich bewertet: Reichweiten-Klassen (überregional / regional / fach / nische — mit Beispielmedien je Klasse) · Tenor-Skala (positiv / neutral / kritisch, mit je einem Ankerbeispiel; Grenzfälle konservativ) · Botschaften-Treffer (welche Kernbotschaften aus der Akte gelten als „durchgedrungen" — wörtlich oder sinngemäß zitiert). Schema-Änderungen später = ausgewiesener Methodenwechsel.
+Damit jede spätere Erfassung gleich bewertet: Reichweiten-Klassen (überregional / regional / fach / nische — mit Beispielmedien je Klasse) · Tenor-Skala (positiv / neutral / kritisch, mit je einem Ankerbeispiel; Grenzfälle konservativ) · Botschaften-Treffer (welche Kernbotschaften aus der Akte gelten als „durchgedrungen" — wörtlich oder sinngemäß zitiert) · **Frame-Zählregel**, falls das Konzept einen Ziel-Frame definiert (wann trägt ein Beitrag den Frame? Typisch: der Deutungsrahmen ist erkennbar, reine PM-Übernahmen ohne Zitat zählen nicht). Schema-Änderungen später = ausgewiesener Methodenwechsel.
 
 ## Schritt 4: Nullmessung durchführen
 
