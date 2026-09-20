@@ -18,7 +18,7 @@ Danach: [Schnellstart-Prompts](medienarbeit/medienarbeit-schnellstart.md) mit de
 | Plugin | Status | Inhalt |
 |---|---|---|
 | **[medienarbeit](medienarbeit/)** | ✅ v0.1.0 | Kundenakte (3-Ebenen-System), Pressemitteilung, Pitch-Mail, Pressemappe, Verteiler-Strategie, Embargo-Handling, Zitat-Werkstatt, 2 Quality-Gates, Medienresonanz-Monitor, Testakte |
-| **[krisenkommunikation](krisenkommunikation/)** | ✅ v0.1.0 | Krisen-Triage (4 Stufen), Holding Statement, Q&A/Sprachregelung, Krisenstab-Playbook, Dark-Site, Krisen-Freigabe-Gate, Nachbereitung, Krisen-Radar-Agent, Übungsszenario |
+| **[krisenkommunikation](krisenkommunikation/)** | ✅ v0.2.0 | Vollständiger 10-Schritte-Krisenprozess: Triage (4 Stufen), Faktenstand (Ground Truth), Stakeholder-Mapping, Holding Statement, Q&A/Sprachregelung, Krisenstab-Playbook, Dark-Site, Krisen-Freigabe-Gate, Status-Kommunikation, Anfragen-Register, Nachbereitung — plus Krisen-Radar-Agent, Referenzprozess mit SLA-Zielwerten, Prozesslandkarte als Beratungsprodukt, Übungsszenario |
 | strategie-und-konzeption | 🔜 geplant | Kommunikationskonzept, Messaging-Framework, Positionierung, Personas, Umfeldanalyse |
 | content-und-social | 🔜 geplant | LinkedIn/Social, Ghostwriting/Namensbeiträge, Newsletter, Redaktionsplan, Corporate-Language-Check |
 | monitoring-und-reporting | 🔜 geplant | Clipping-Analyse, Share of Voice, Medienresonanzanalyse, KPI-Reports |

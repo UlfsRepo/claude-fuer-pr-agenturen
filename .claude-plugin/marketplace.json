@@ -21,8 +21,8 @@
     {
       "name": "krisenkommunikation",
       "source": "./krisenkommunikation",
-      "description": "Krisenkommunikation für PR-Agenturen: Krisen-Triage mit 4-Stufen-Modell, Holding Statement, Q&A/Sprachregelung, Krisenstab-Playbook, Dark-Site, beschleunigtes Krisen-Freigabe-Gate, Nachbereitung mit Lessons Learned — plus Krisen-Radar-Agent und fiktives Übungsszenario Containerbrand Greifenberg.",
-      "version": "0.1.0",
+      "description": "Krisenkommunikation für PR-Agenturen als vollständiger 10-Schritte-Prozess: Krisen-Triage mit 4-Stufen-Modell, versionierter Faktenstand (Ground Truth), Stakeholder-Mapping, Holding Statement, Q&A/Sprachregelung, Krisenstab-Playbook, Dark-Site, beschleunigtes Krisen-Freigabe-Gate, Status-Kommunikation mit Taktung, Anfragen-Register mit getrennten Pfaden (Medien/Behörden/Betroffene/Partner), Nachbereitung mit Lessons Learned — plus Krisen-Radar-Agent, Referenzprozess mit SLA-Zielwerten, Prozesslandkarte als Beratungsprodukt und fiktives Übungsszenario Containerbrand Greifenberg.",
+      "version": "0.2.0",
       "author": {
         "name": "Ulf Marhenke",
         "email": "ulf.marhenke@trustwork.consulting"
