@@ -1,0 +1,35 @@
+# Plugin-Evals — manuell startbar (workflow_dispatch), damit kein roter Haken
+# ohne konfigurierten API-Key entsteht. Voraussetzung: Repo-Secret ANTHROPIC_API_KEY.
+name: Plugin Evals
+
+on:
+  workflow_dispatch:
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        plugin: [medienarbeit, krisenkommunikation, strategie-und-konzeption, monitoring-und-reporting]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Claude Code
+        run: curl -sSL https://code.claude.com/install.sh | sh
+      - name: Run evals
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ~/.local/bin/claude plugin eval ./${{ matrix.plugin }} \
+            --trust-plugin \
+            --allow-tools Write Read \
+            --max-cost-usd 15 \
+            --json eval-results-${{ matrix.plugin }}.json
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-results-${{ matrix.plugin }}
+          path: |
+            eval-results-${{ matrix.plugin }}.json
+            ${{ matrix.plugin }}/evals/results/**/report.html
