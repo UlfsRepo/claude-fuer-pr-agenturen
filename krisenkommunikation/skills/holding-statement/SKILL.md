@@ -29,7 +29,7 @@ Länge: 60–120 Wörter. Absender laut Stufe: Pressestelle (Stufe 2) oder Gesch
 
 ## Workflow
 
-1. `triage.md` des Vorgangs laden — nur Fakten aus "Bestätigte Fakten" verwenden. Ohne Triage keine Statement-Produktion: erst `krisen-triage`.
+1. Freigegebenen `faktenstand.md` des Vorgangs laden (solange keiner existiert: `triage.md`, „Bestätigte Fakten") — nur diese Fakten verwenden. Ohne Triage keine Statement-Produktion: erst `krisen-triage`.
 2. Kundenakte laden (No-Gos, Sprecher:innen, Tonalität) — Krisen-Tonalität ist immer nüchterner als die Marketing-Tonalität.
 3. Statement nach der 4-Elemente-Formel entwerfen, in zwei Varianten: (a) schriftlich (Presse/Website/Social), (b) sprechbar (für Telefon/Kamera, kürzere Sätze).
 4. **`krisen-freigabe-gate`** durchlaufen (beschleunigt, ersetzt die normalen Gates).

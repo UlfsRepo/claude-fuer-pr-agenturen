@@ -50,7 +50,7 @@ Die Rubrik **"Nicht tun"** ist Pflicht — typische Einträge: nicht spekulieren
 
 Je nach Stufe die Folge-Skills aufrufen und den Nutzer explizit auf die Stufe und das Zeitfenster hinweisen. Bei Stufe 2–3 zusätzlich immer:
 - **Rechts-Flag**: bei möglichen Straftaten, Personenschäden, Behördenkontakt, Kapitalmarktbezug → dringende Empfehlung juristischer Begleitung, bevor irgendetwas rausgeht
-- **Faktensperre**: Es wird nur kommuniziert, was in `triage.md` unter "Bestätigte Fakten" steht
+- **Faktensperre**: Die Faktenliste der Triage wird unmittelbar in den versionierten Faktenstand überführt (Skill `faktenstand`, Ground-Truth-Owner benennen) — ab dann ist dessen freigegebene Version die einzige erlaubte Quelle für jede Aussage
 
 ## Grundsatz
 

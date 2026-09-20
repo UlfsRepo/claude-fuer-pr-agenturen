@@ -23,7 +23,7 @@ Die Grenzlinie braucht immer einen **ehrlichen Grund** (laufende Untersuchung, P
 ## Fragenkatalog entwickeln
 
 ### Schritt 1: Quellen laden
-`triage.md`, Holding Statement (falls vorhanden), Kundenakte (No-Gos, Zahlen-Politik).
+Freigegebener `faktenstand.md` (ersatzweise `triage.md`), Holding Statement (falls vorhanden), Kundenakte (No-Gos, Zahlen-Politik).
 
 ### Schritt 2: Fragen in 6 Pflichtkategorien antizipieren
 
@@ -37,7 +37,7 @@ Die Grenzlinie braucht immer einen **ehrlichen Grund** (laufende Untersuchung, P
 Je Kategorie mindestens 3 Fragen, immer in der **härtesten** Formulierung — ein Q&A, das nur freundliche Fragen übt, ist wertlos.
 
 ### Schritt 3: Antworten schreiben
-Nach dem 3-Ebenen-Muster. Konsistenz-Pflicht: Keine Antwort darf dem Holding Statement oder einer anderen Antwort widersprechen. Jede Zahl gegen die Faktenliste der Triage.
+Nach dem 3-Ebenen-Muster. Konsistenz-Pflicht: Keine Antwort darf dem Holding Statement oder einer anderen Antwort widersprechen. Jede Zahl gegen die freigegebene Version des Faktenstands (ersatzweise die Faktenliste der Triage).
 
 ### Schritt 4: Gate und Pflege
 `krisen-freigabe-gate` durchlaufen. Das Q&A ist ein lebendes Dokument: bei jeder Lageänderung aktualisieren, Versionen mit Zeitstempel, Änderungen gegenüber Vorversion oben zusammengefasst.

@@ -28,7 +28,7 @@ Nüchtern, barrierearm, ohne Marketing-Elemente: keine Werbebanner, keine Produk
 
 ## Modus B: Ernstfall (Scharfschalten)
 
-1. Passenden Rohling wählen; Platzhalter ausschließlich mit Fakten aus `triage.md` füllen. Bleibt ein `[PLATZHALTER]` ungefüllt, wird der Abschnitt gestrichen, nicht improvisiert.
+1. Passenden Rohling wählen; Platzhalter ausschließlich mit Fakten aus der freigegebenen Version des `faktenstand.md` (ersatzweise `triage.md`) füllen. Bleibt ein `[PLATZHALTER]` ungefüllt, wird der Abschnitt gestrichen, nicht improvisiert.
 2. `krisen-freigabe-gate` über die gesamte Seite.
 3. Nach Freigabe durch den Krisenstab: Kunde/IT schaltet live; Zeitpunkt ins Logbuch.
 4. Update-Disziplin: Jedes neue Statement zuerst auf die Dark-Site, dann auf andere Kanäle verlinken — die Seite ist die eine offizielle Quelle ("single source of truth") der Krise.

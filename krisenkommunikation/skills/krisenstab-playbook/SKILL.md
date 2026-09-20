@@ -21,6 +21,7 @@ Pflichtrollen: **Leitung** (entscheidet), **Kommunikation** (Agentur + interne:r
 - Wer gibt Statements frei? (eine Person + Vertretung — keine Gremien-Freigabe im Ernstfall)
 - Wer spricht nach außen? (abschließende Liste; alle anderen verweisen an die Pressestelle)
 - Ab welcher Stufe wird die Geschäftsführung Absender?
+- Bei Kunden mit Partner-, Marken- oder Konzernstruktur: Absenderregelung (wer spricht wozu, Umlauffristen) als **Dauervereinbarung in Friedenszeiten** schließen — die Ad-hoc-Klärung im Ernstfall kostet die teuersten Minuten (Details: Skill `stakeholder-mapping`)
 
 ### 3. Meldeketten und Kanäle
 - Interner Alarmweg (wer meldet wem, auf welchem Kanal — mit Fallback, falls E-Mail/Systeme selbst betroffen sind)

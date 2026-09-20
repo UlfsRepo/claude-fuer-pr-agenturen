@@ -10,8 +10,8 @@ In der Krise gibt es keine Zeit für zwei getrennte Gate-Läufe — aber erst re
 ## Der Durchgang (in dieser Reihenfolge)
 
 ### 1. Faktensperre (hart)
-Jede Tatsachenaussage im Text muss wörtlich oder sinngleich in `triage.md` unter **"Bestätigte Fakten"** stehen.
-- Aussage nicht in der Faktenliste → raus aus dem Text oder (wenn inzwischen bestätigt) erst in die Faktenliste, dann in den Text — nie umgekehrt.
+Jede Tatsachenaussage im Text muss wörtlich oder sinngleich in der aktuellen **freigegebenen Version des `faktenstand.md`** stehen (solange noch kein Faktenstand angelegt ist: in `triage.md` unter „Bestätigte Fakten").
+- Aussage nicht im Faktenstand → raus aus dem Text oder (wenn inzwischen bestätigt) erst vom Ground-Truth-Owner feststellen lassen, dann in den Text — nie umgekehrt.
 - Zahlen zu Betroffenen/Schäden: nur mit behördlicher Bestätigung, immer mit „nach derzeitigem Stand".
 
 ### 2. Verbotsliste
